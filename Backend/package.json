@@ -1,0 +1,16 @@
+{
+  "name": "trainapi",
+  "version": "1.0.0",
+  "description": "server to get all available trains in next 12hr",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saikumar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
